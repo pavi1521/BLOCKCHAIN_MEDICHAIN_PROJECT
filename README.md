@@ -2,8 +2,9 @@
 
 A **decentralized application (dApp)** that gives patients complete control over their medical records using **Ethereum blockchain** and **IPFS**. Patients can securely store data, manage access permissions, and allow doctors/hospitals to view records in a transparent and immutable way.
 
+WEBPAGE IMAGE:
 ---<img width="1877" height="873" alt="ss1" src="https://github.com/user-attachments/assets/977be43e-7e8c-4987-a3ea-b40f8ae92935" />
-
+WEBPAGE LINK:https://vercel.com/pavi1521s-projects/blockchain-medichain-project
 
 ##  Features
 - Secure on-chain storage of patient details.  
@@ -14,7 +15,7 @@ A **decentralized application (dApp)** that gives patients complete control over
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend**: React.js, Material-UI, Ethers.js  
 - **Backend**: Node.js, Express.js, Web3.js  
 - **Smart Contract**: Solidity  
@@ -23,7 +24,7 @@ A **decentralized application (dApp)** that gives patients complete control over
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Prerequisites
 - Node.js & npm  
