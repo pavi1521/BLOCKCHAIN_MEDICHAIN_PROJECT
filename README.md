@@ -2,7 +2,8 @@
 
 A **decentralized application (dApp)** that gives patients complete control over their medical records using **Ethereum blockchain** and **IPFS**. Patients can securely store data, manage access permissions, and allow doctors/hospitals to view records in a transparent and immutable way.
 
----
+---<img width="1877" height="873" alt="ss1" src="https://github.com/user-attachments/assets/977be43e-7e8c-4987-a3ea-b40f8ae92935" />
+
 
 ##  Features
 - Secure on-chain storage of patient details.  
