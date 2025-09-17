@@ -4,7 +4,7 @@ A **decentralized application (dApp)** that gives patients complete control over
 
 WEBPAGE IMAGE:
 ---<img width="1877" height="873" alt="ss1" src="https://github.com/user-attachments/assets/977be43e-7e8c-4987-a3ea-b40f8ae92935" />
-WEBPAGE LINK:https://vercel.com/pavi1521s-projects/blockchain-medichain-project
+WEBPAGE LINK:https://blockchain-medichain-project.vercel.app/
 
 ##  Features
 - Secure on-chain storage of patient details.  
